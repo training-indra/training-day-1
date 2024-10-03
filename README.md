@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Oct 10 - 12, 2024
+- Facilitator: @bhaimicrosoft
 
 ## Class Resources
 
